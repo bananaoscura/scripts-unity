@@ -8,7 +8,7 @@ public class PauseMenu : MonoBehaviour
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUI;
 
-    // botón pausa
+    // botÃ³n pausa
     private void OnPause()
     {
         if (GameIsPaused)
